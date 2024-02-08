@@ -16,3 +16,4 @@ ida_bytes.py: the script used in paper BKWTG
 
 
 ## Ghidra
+- a script to generate cfg using networkx
