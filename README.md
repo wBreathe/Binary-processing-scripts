@@ -16,4 +16,9 @@ ida_bytes.py: the script used in paper BKWTG
 
 
 ## Ghidra
+ghidra.py
+- automatically execute the ghidra script
+control_flow_gen_ghi.py
 - a script to generate cfg using networkx
+utils_ghi.py
+- combined with control_flow_gen_ghi.py
